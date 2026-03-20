@@ -1,4 +1,4 @@
-console.log("Hello from A - CONFLICT");
+console.log("Hello from A and B - RESOLVED");
 console.log("Second_line");
 console.log("Update_from A");
 console.log("Feature_FF");
